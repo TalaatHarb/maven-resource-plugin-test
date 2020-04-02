@@ -1,0 +1,5 @@
+newdatabase:
+  url: ${database.url}
+
+server:
+  port: 8081

@@ -1,0 +1,5 @@
+newdatabase:
+  url: http://test-url
+
+server:
+  port: 8081

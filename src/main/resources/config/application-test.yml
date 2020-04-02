@@ -1,0 +1,2 @@
+newdatabase:
+  url: ${database.url}/test-spring
